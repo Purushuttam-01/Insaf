@@ -1,4 +1,4 @@
-# Insaff Record Management System
+# Insaff Management System
 
 ## Description
 
