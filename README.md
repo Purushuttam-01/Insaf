@@ -1,4 +1,4 @@
-# Insaff Management System
+# Insaf Management System
 
 ## Description
 
@@ -86,6 +86,3 @@ Things that I will work on this project later:
 -   use proper routes for managing users
 -   add ability to migrate database
 
-## Author
-
-[Sandesh GC](https://www.gcsandesh.com.np)
